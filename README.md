@@ -8,8 +8,6 @@ Soy un desarrollador web junior enfocado en crear aplicaciones funcionales, bien
 
 Cuento con experiencia trabajando tanto en frontend como en backend, desarrollando aplicaciones completas y prestando especial atención a la calidad del código, las pruebas y el correcto funcionamiento de cada parte del sistema. Me interesa seguir creciendo profesionalmente y enfrentar nuevos retos dentro del desarrollo web.  
 
-Soy un desarrollador web junior dedicado a construir soluciones funcionales, limpias y escalables. Terminé mis estudios de Grado Superior en 2025 y desde entonces he estado implicado en el mundo del desarrollo web, combinando formación formal, cursos online y aprendizaje autodidacta, además de experiencia real en el mundo profesional.
-
 Soy una persona puntual y responsable, con sólidas habilidades de comunicación. Además de ser ingenioso y estar abierto a aportar nuevas ideas, me adapto con facilidad tanto al trabajo en equipo como al individual, según lo requiera la situación. Ante cualquier obstáculo, no dudo en solicitar apoyo a alguien con mayor experiencia, si es posible y, de no serlo, investigo a fondo hasta encontrar la solución adecuada.
 
 ## 🛠️ Tecnologías y herramientas
